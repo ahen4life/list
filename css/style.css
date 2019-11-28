@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Catamaran|Passion+One&display=swap');
+
+* {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Passion One';
+  font-size: 6rem;
+}
+
+ol {
+  font-family: 'Catamaran';
+  font-size: 3.5rem;
+}
